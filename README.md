@@ -8,7 +8,7 @@ Git Commit:
 
 4. git config user.email "praveen.mishra@inkreaders.com"
 
-5. git remote set-url origin git@github.com:inkreaders/python.git
+5. git remote set-url origin git@github-inkreaders:inkreaders/python.git
 
 6. git push -u origin master
 
